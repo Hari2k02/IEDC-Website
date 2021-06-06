@@ -1,0 +1,121 @@
+.loginMainDiv{
+    border: 1px solid rgb(66, 66, 66);
+    width: max-content;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 18px;
+    padding-top: 0.1rem;
+    
+}
+
+.loginh2{
+    padding-left: 50px;
+}
+.form{
+    padding-left: 80px;
+    padding-right: 100px;
+}
+.types{
+    padding-top: 20px;
+}
+
+.label{
+    color: grey;
+    padding-left: 10px;
+}
+
+.input {
+    border-top-left-radius:0.7rem ;
+    border-top-right-radius:0.7rem ;
+    border-bottom-left-radius:0.7rem ;
+    border-bottom-right-radius:0.7rem ;
+    padding: 10px;
+    padding-right: 150px;
+    border-color: grey;
+    border-width: thin;
+}
+.Forgot{
+    padding-left: 210px;
+    color: rgb(87, 142, 245);
+    text-decoration: none;
+    font-size: 15px;
+}
+.loginButton{
+    padding-left: 75px;
+    height:35px;
+}
+.loginMainDiv button{
+    width: 150px;
+    height: 35px;
+    /* border-color: transparent; */
+    background-color: #ffffff;
+    color: rgb(97, 94, 94);
+    font-weight: 800;
+    border-radius: 70px;
+    border-width: thin;
+}
+.orh6{
+    font-size: large;
+    font-weight: 100;
+    color: rgb(148, 145, 145);
+    padding-left: 148px;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    position: relative;
+}
+
+.orh6:before{
+    content: "";
+    display: block;
+    width: 140px;
+    height: 2px;
+    background: rgb(158, 156, 156);
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
+.orh6:after{
+    content: "";
+    display: block;
+    width: 150px;
+    height: 2px;
+    background:rgb(158, 156, 156);
+    position: absolute;
+    right: 0;
+    top: 50%;
+}
+.google{
+    padding-left: 120px;
+    position: relative;
+    display: block;
+    float: left;
+    padding-top: 3px;
+}
+.facebook{
+    padding-left: 170px;
+    display: block;
+}
+.fb{
+    width: 32px;
+    height: 32px;
+}
+
+.q{
+    font-size: 14px;
+    font-weight: 100;
+    color: rgb(122, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2px;
+}
+.new{
+    margin-top: 2px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(91, 145, 245);
+    
+}
+
